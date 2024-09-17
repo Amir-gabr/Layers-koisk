@@ -1,0 +1,22 @@
+{
+  "welcome": "Welcome to ",
+  "unwind": "Unwind and embrace your unique beauty with our personalized treatments and exceptional service.",
+  "start": "get started",
+  "layers": "Layers",
+  "phoneV": "Phone Verification",
+  "phone": "Phone number",
+  "enterPhone": "Enter your phone number",
+  "verify": "verify",
+  "phoneErr": "please write your phone number",
+  "codeSent": "A verification code has been sent to",
+  "confirm": "confirm",
+  "noCode": "Didn’t receive code?",
+  "resendCode": "Resend Code",
+  "OTPErr": "OTP is wrong",
+  "services": "Services",
+  "shop": "Layers Shop",
+  "selfie": "Take a selfie",
+  "cart": "Cart",
+  "delete": "Delete",
+  "send": "Send to gallery"
+}
